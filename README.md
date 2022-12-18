@@ -20,6 +20,8 @@ this prob doesn't work, but what the heck:
 (<img src="https://raw.githubusercontent.com/floppydisk525/assets/main/EFCoreCodeFirstExample/unnamed.jpg" alt="tree image"/>)
 
 
+
 END OF FILE  
 
 
+![thank-you-for-your-support-thanks](https://user-images.githubusercontent.com/4861265/208279865-6eebd111-5379-4920-9241-720640657c89.gif)

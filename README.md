@@ -9,4 +9,4 @@
 ![test](<https://raw.githubusercontent.com/floppydisk525/EFCoreCodeFirstExample/master/EFCoreCodeFirstExample/Images/test.png> "why, the link works??")
   
 this prob doesn't work, but what the heck:  
-![floppydisk.some image file](https://raw.githubusercontent.com/floppydisk525/assets/main/EFCoreCodeFirstExample/floppydisk.jpg "nice disk, eh?")  
+![floppydisk.some image file](<https://raw.githubusercontent.com/floppydisk525/assets/main/EFCoreCodeFirstExample/floppydisk.jpg> "nice disk, eh?")  

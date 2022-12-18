@@ -13,9 +13,9 @@ this prob doesn't work, but what the heck:
 
 ![floppydisk_file](https://raw.githubusercontent.com/floppydisk525/assets/main/EFCoreCodeFirstExample/floppydisk.jpg)
 
-<img src="https://raw.githubusercontent.com/floppydisk525/assets/main/EFCoreCodeFirstExample/floppydisk.jpgng" alt="bahumbug"/>  
+<img src="https://raw.githubusercontent.com/floppydisk525/assets/main/EFCoreCodeFirstExample/floppydisk.jpg" alt="bahumbug"/>  
 
-![imagefloopyyydisk]<img src="https://raw.githubusercontent.com/floppydisk525/assets/main/EFCoreCodeFirstExample/floppydisk.jpgng"/>  
+![imagefloopyyydisk]<img src="https://raw.githubusercontent.com/floppydisk525/assets/main/EFCoreCodeFirstExample/floppydisk.jpg"/>  
 
 END OF FILE  
 
